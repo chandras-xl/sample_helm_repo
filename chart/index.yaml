@@ -3,10 +3,10 @@ entries:
   rabbitmq-ha:
   - apiVersion: v1
     appVersion: 3.8.7
-    created: "2021-01-13T12:02:24.79864298Z"
+    created: "2021-01-13T12:09:31.380461224Z"
     description: Highly available RabbitMQ cluster, the open source message broker
       software that implements the Advanced Message Queuing Protocol (AMQP).
-    digest: da97da9a93626f798bd669cc74e830452e13a51214412ff3165f24e6a67aac33
+    digest: 819e0d13dd5e9bd0930ebad685d3f2ba83d71813c66e424edfc2cb00b35f21cf
     keywords:
     - rabbitmq
     - message queue
@@ -18,4 +18,4 @@ entries:
     urls:
     - rabbitmq-ha-1.47.1.tgz
     version: 1.47.1
-generated: "2021-01-13T12:02:24.795595249Z"
+generated: "2021-01-13T12:09:31.375612655Z"
