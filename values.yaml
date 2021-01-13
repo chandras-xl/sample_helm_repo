@@ -565,7 +565,7 @@ prometheus:
     ## Configures Alerts, which will be setup via Prometheus Operator / ConfigMaps.
     alerts:
       ## Prometheus exporter must be enabled as well
-      enabled: true
+      enabled: false
 
       ## Selector must be configured to match Prometheus Install, defaulting to whats done by Prometheus Operator
       ## See [CoreOS Prometheus Chart](https://github.com/coreos/prometheus-operator/tree/master/helm)
